@@ -2,7 +2,8 @@
 
 The official repository of the paper [MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interactions Prediction](https://www.biorxiv.org/content/10.1101/2023.09.13.557595v3)
 
-![image](https://github.com/rickwang28574/MocFormer/assets/87885188/f152b543-1c42-4616-82ac-e9489a53cf66)
+![image](https://github.com/DHCGroup/MocFormer/assets/168347284/00738b73-32c5-4170-8502-1caf0302c310)
+
 
 A novel two-stage pre-trained framework (Mocformer) is proposed for drug-target interactions prediction. In the first stage, pre-trained molecule and protein models develop a comprehensive feature representation, enhancing the framework's ability to handle drug and protein diversity. This also reduces bias, improving prediction accuracy. In the second stage, a transformer with bilinear pooling and a fully connected layer enables predictions based on feature vectors.
 
