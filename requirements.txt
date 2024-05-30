@@ -1,0 +1,6 @@
+torch=2.0.0
+cudakit=11.8
+pandas
+rdkit
+numpy
+scikit-learn
