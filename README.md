@@ -43,14 +43,14 @@ Please run the billnear_DrugBank_uni_esm2_3B_trans copy.ipynb notebook sequentia
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>@article{Zhang2023.09.13.557595,
   title={MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interactions Prediction},
   author={Yi-Lun Zhang and Wen-Tao Wang and Jia-Hui Guan and Deepak Kumar Jain and Tian-Yang Wang and Swalpa Kumar Roy},
-  journal={bioRxiv},
+  journal={International Journal of Computational Intelligence Systems},
   year={2023}
 }
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@article{Zhang2023.09.13.557595,
   title={MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interactions Prediction},
   author={Yi-Lun Zhang and Wen-Tao Wang and Jia-Hui Guan and Deepak Kumar Jain and Tian-Yang Wang and Swalpa Kumar Roy},
-  journal={bioRxiv},
+  journal={International Journal of Computational Intelligence Systems},
   year={2023}
 }" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
